@@ -16,22 +16,22 @@
 
 typedef enum
 {
-	PortA=0,
-	PortB,
-	PortC,
-	PortD
+   PortA=0,
+   PortB,
+   PortC,
+   PortD
 }PortID;
 
 typedef enum
 {
-	PIN_0A=0,
-	PIN_1A,
-	PIN_2A,
-	PIN_3A,
-	PIN_4A,
-	PIN_5A,
-	PIN_6A,
-	PIN_7A,
+   PIN_0A=0,
+   PIN_1A,
+   PIN_2A,
+   PIN_3A,
+   PIN_4A,
+   PIN_5A,
+   PIN_6A,
+   PIN_7A,
 
     PIN_0B,
     PIN_1B,
@@ -64,9 +64,9 @@ typedef enum
 
 typedef enum
 {
-	INfree=0,
-	INup,
-    OUT
+   INfree=0,
+   INup,
+   OUT
 
 }Direction;
 
